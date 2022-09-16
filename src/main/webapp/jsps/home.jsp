@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to  Zensar Technologies. Hyderabad </h1>
-<h1 align="center"> Zensar Technologies- Perfect  place for growth and Development and also which challenge us to Think Out of the box. I am so glad to for getting opertunity to work such an encouraging environment</h1>
+<h1 align="center"> Zensar Technologies- Perfect  place for growth and Development and also which challenge us to Think Out of the box. I am so glad  for getting opertunity to work such an encouraging environment</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
