@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to  Zensar Technologies. Hyderabad </h1>
-<h1 align="center"> Zensar Technologies- Perfect  place for growth and Development and also which challenge us to Think Out of the box. I am so glad  for getting opertunity to work such an encouraging environment</h1>
+<h1 align="center"> Zensar Technologies is Perfect  place for growth and Development and also which challenge us to Think Out of the box. I am so glad  for getting opertunity to work such an encouraging environment</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -30,21 +30,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		Zensar, 
+		DLF cyber city, Indira Nagar, Gachibowli,
+		Hyderabad,
+		040-67258000
+		zensartech@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:zensartech@gmail.com">Mail to zensar Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Zensar Technologies - software, global, Organization.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://zensartechnologies.com/">zensar Technologies</a> </small></p>
 
 </body>
 </html>
